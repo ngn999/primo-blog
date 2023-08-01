@@ -8559,13 +8559,13 @@ function create_fragment$6(ctx) {
 				title: "Blog",
 				description: "",
 				logo: {
+					"title": "My Blog",
 					"image": {
 						"alt": "",
 						"src": "",
 						"url": "",
 						"size": null
-					},
-					"title": "Name"
+					}
 				},
 				site_nav: [
 					{ "link": { "url": "/", "label": "Home" } },
